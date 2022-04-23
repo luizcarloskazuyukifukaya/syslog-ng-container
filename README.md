@@ -1,3 +1,7 @@
+<!-- 
+README.md for explanation of this repository
+..>
+
 # Syslog Server
 # https://hub.docker.com/r/balabit/syslog-ng/
 
